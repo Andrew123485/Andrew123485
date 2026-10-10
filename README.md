@@ -19,8 +19,8 @@
 
 * 💼 **Текущая роль:** Стажер — Бизнес-аналитик в **АО «Альфа-Банк» (КИБ)**, Дирекция аналитики, развития продуктов и инфраструктуры инвестиционного бизнеса.
 * 🎓 **Образование:** Финансовый университет при Правительстве РФ (Высшая школа управления, «Менеджмент», модуль «Управление продуктом», 4 курс).
-* 🎯 **Специализация:** Сбор и формализация требований (BRD, User Stories, AC), проектирование сквозных процессов в BPMN (AS-IS / TO-BE), проектирование миграций систем (AV-биллинг → Radius), автоматизация требований и диаграмм через ИИ.
-* 📈 **Интересы:** Финтех, корпоративно-инвестиционный бизнес, алгоритмический трейдинг (Price Action, Smart Money), архитектура данных и ИИ-агенты.
+* 🎯 **Специализация:** Сбор и формализация требований (BRD, User Stories, AC), проектирование сквозных процессов в BPMN 2.0 (AS-IS / TO-BE), проектирование миграций корпоративных систем (AV-биллинг → Radius), автоматизация требований и диаграмм через ИИ.
+* 📈 **Интересы:** Финтех, корпоративно-инвестиционный бизнес, алгоритмический трейдинг (Price Action, Smart Money), архитектура данных и прикладные ИИ-агенты.
 
 ---
 
@@ -40,21 +40,57 @@
 
 ---
 
-## 🚀 Витрина проектов / Featured Projects
+## 🚀 Витрина проектов / Project Showcase
 
-### 1. [🇬🇧 AI English Learning Telegram Bot](https://github.com/Andrew123485/english-learning-bot)
-> Интеллектуальный образовательный бот с алгоритмом интервального повторения (SRS), базой 1000+ вопросов, кэшированием ИИ-разборов от Google Gemini и встроенной системой монетизации (Telegram Stars).  
-> **Стек:** `Python`, `Aiogram 3`, `Google Gemini API`, `Matplotlib`, `deep-translator`
+### 🏦 1. Бизнес-анализ, Финтех и Корпоративные системы
 
-### 2. [🏛️ Macroeconomics & Economics Theory Bot](https://github.com/Andrew123485/macroeconomics-quiz-bot)
-> Цифровой тренажер по макро- и микроэкономике на 1 898 академических заданий по 10 блокам теории (AD-AS, IS-LM, монетарная политика) с ИИ-разбором ошибок и генерацией графиков успеваемости.  
-> **Стек:** `Python`, `Aiogram 3`, `Google Gemini 2.5 Flash`, `Matplotlib`
+* **[🤖 AI BRD & Draw.io BPMN Process Generator](https://github.com/Andrew123485/ai-brd-bpmn-generator)**  
+  Интеллектуальный ассистент бизнес-аналитика для автоматизированного сбора требований, формирования стандартизированных BRD-документов и генерации XML-схем процессов BPMN 2.0 под Draw.io.  
+  *Стек:* `Python`, `BPMN 2.0 XML`, `Draw.io mxGraph`, `Mermaid.js`, `LLM Prompt Engineering`
 
-### 3. [📉 Quantitative Trading & 17-Year Backtesting Engine](https://github.com/Andrew123485/quant-trading-backtester)
-> Фреймворк для векторного бэктестинга стратегий Price Action (Smart Money Concepts) на 17-летней истории минутных котировок EUR/USD (2008–2024) с расчетом Sharpe, Drawdown и профит-фактора.  
-> **Стек:** `Python`, `Pandas (merge_asof)`, `NumPy`, `SciPy`, `Matplotlib`
+* **[🗺️ Alfa-Bank CJM & Enterprise Process Map](https://github.com/Andrew123485/alfabank-cjm-process-map)**  
+  Автоматизированная генерация интерактивных Customer Journey Maps через Miro REST API v2, сквозные диаграммы процессов в BPMN 2.0 (Draw.io) и шаблоны спецификаций бизнес-требований (BRD) для КИБ.  
+  *Стек:* `Python`, `Miro REST API v2`, `BPMN 2.0 (Draw.io)`, `BRD Templates`
 
-*(Остальные проекты витрины находятся в процессе публикации)*
+* **[🛒 Marketplaces & Fintech BI Analytics](https://github.com/Andrew123485/marketplaces-fintech-bi)**  
+  Аналитическое исследование финансово-экономических моделей и финтех-экосистем лидеров e-commerce (Ozon Банк, Wildberries / WB Bank, Яндекс Банк) с факторным анализом и когортными матрицами.  
+  *Стек:* `Python`, `Pandas`, `Jupyter Notebook`, `Matplotlib`, `Seaborn`
+
+---
+
+### 📈 2. Количественные финансы и Трейдинг
+
+* **[📊 StatsAI Trading Terminal & Analytical Journal](https://github.com/Andrew123485/statsai-trading-terminal)**  
+  Полнофункциональный self-hosted торговый терминал, журнал сделок (Live, Backtest, Missed) и AI-ассистент с интеграцией Notion API, анализом кривой эквити и проверкой правил стратегии 1H3M SMC.  
+  *Стек:* `Python`, `HTML5 / CSS3 / ES6+ SPA`, `Notion REST API`, `Smart Money Concepts`
+
+* **[📉 Quantitative Trading & 17-Year Backtester](https://github.com/Andrew123485/quant-trading-backtester)**  
+  Векторный бэктестер стратегий Price Action (Smart Money Concepts) на 17-летней минутной истории EUR/USD (2008–2024, 6.2 млн свечей) с расчетом Sharpe, Drawdown и профит-фактора.  
+  *Стек:* `Python`, `Pandas (merge_asof)`, `NumPy`, `SciPy`, `Matplotlib`
+
+* **[📓 Trading Notion Assistant & Voice Logger](https://github.com/Andrew123485/trading-notion-assistant)**  
+  Telegram-бот для мгновенного логирования сделок в базы данных Notion через распознавание голосовых сообщений (Faster-Whisper), парсинг R:R и автоматический расчет метрик риск-менеджмента.  
+  *Стек:* `Python`, `Aiogram 3`, `Faster-Whisper`, `Notion API v1`
+
+---
+
+### 🤖 3. AI-продукты, Образовательные боты и 3D-моделирование
+
+* **[🇬🇧 AI English Learning Telegram Bot](https://github.com/Andrew123485/english-learning-bot)**  
+  Образовательный бот с интервальным повторением (SRS), базой 1000+ вопросов, кэшированием ИИ-разборов Google Gemini и встроенной системой монетизации (Telegram Stars).  
+  *Стек:* `Python`, `Aiogram 3`, `Google Gemini API`, `Matplotlib`, `SQLite`
+
+* **[🏛️ Macroeconomics Theory & Quiz Bot](https://github.com/Andrew123485/macroeconomics-quiz-bot)**  
+  Интерактивный тренажер по макро- и микроэкономике на 1 898 академических заданий по 10 разделам теории с ИИ-пояснениями и визуализацией динамики успеваемости.  
+  *Стек:* `Python`, `Aiogram 3`, `Google Gemini 2.5 Flash`, `Matplotlib`
+
+* **[🎲 3D Interactive WebGL Dice Physics & Mini App (Kubik555)](https://github.com/Andrew123485/kubik555-bot)**  
+  Интерактивное веб-приложение и Telegram Mini App с 3D-физикой броска кубика, шейдерным рендерингом воды, ночным освещением и интеграцией Telegram WebApp API.  
+  *Стек:* `Three.js`, `Cannon-es`, `WebGL`, `GLSL Shaders`, `Blender CAD`
+
+* **[☕ Parametric CAD Tea Infuser & Engineering Pipeline](https://github.com/Andrew123485/parametric-cad-tea-infuser)**  
+  Параметрическая 3D-модель дорожного термостакана-заварника с автоматизированным скриптом проверки допусков резьбовых соединений (`check_fit.py`) и взрыв-схемой сборки.  
+  *Стек:* `OpenSCAD`, `Python (Validation CLI)`, `3D Printing Specs`
 
 ---
 
@@ -62,7 +98,7 @@
 
 * 💼 **Current Position:** Business Analyst Intern at **Alfa-Bank (CIB)**, Investment Business Product & Infrastructure Analytics Directorate.
 * 🎓 **Education:** Financial University under the Government of the Russian Federation (Management / Product Management module, 4th year).
-* 🎯 **Core Expertise:** Requirements Engineering (BRD, User Stories, Acceptance Criteria), End-to-end Process Modeling in BPMN (AS-IS / TO-BE), Billing System Migration (AV-Billing → Radius), and AI-driven BA Workflow Automation.
+* 🎯 **Core Expertise:** Requirements Engineering (BRD, User Stories, Acceptance Criteria), End-to-end Process Modeling in BPMN 2.0 (AS-IS / TO-BE), Billing System Migration (AV-Billing → Radius), and AI-driven BA Workflow Automation.
 * 📈 **Domains:** Fintech, Corporate & Investment Banking (CIB), Algorithmic Trading (Price Action / Smart Money), Data Pipelines, and Agentic AI.
 
 ---
