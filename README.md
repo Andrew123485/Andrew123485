@@ -18,7 +18,9 @@
 ## 🇷🇺 Обо мне
 
 * 💼 **Текущая роль:** Стажер — Бизнес-аналитик в **АО «Альфа-Банк» (КИБ)**, Дирекция аналитики, развития продуктов и инфраструктуры инвестиционного бизнеса.
-* 🎓 **Образование:** Финансовый университет при Правительстве РФ (Высшая школа управления, «Менеджмент», модуль «Управление продуктом», 4 курс).
+* 🎓 **Образование:**
+  * **Магистратура (текущее):** Финансовый университет при Правительстве РФ, Факультет экономики и бизнеса, направление «Корпоративные финансы и оценка бизнеса» (1 курс, 2025–2027 гг.).
+  * **Бакалавриат (диплом с отличием):** Финансовый университет при Правительстве РФ, Высшая школа управления, направление «Менеджмент», модуль «Управление продуктом» (красный диплом, окончил в июне 2025 г.).
 * 🎯 **Специализация:** Сбор и формализация требований (BRD, User Stories, AC), проектирование сквозных процессов в BPMN 2.0 (AS-IS / TO-BE), проектирование миграций корпоративных систем (AV-биллинг → Radius), автоматизация требований и диаграмм через ИИ.
 * 📈 **Интересы:** Финтех, корпоративно-инвестиционный бизнес, алгоритмический трейдинг (Price Action, Smart Money), архитектура данных и прикладные ИИ-агенты.
 
@@ -97,7 +99,9 @@
 ## 🇬🇧 About Me
 
 * 💼 **Current Position:** Business Analyst Intern at **Alfa-Bank (CIB)**, Investment Business Product & Infrastructure Analytics Directorate.
-* 🎓 **Education:** Financial University under the Government of the Russian Federation (Management / Product Management module, 4th year).
+* 🎓 **Education:**
+  * **Master's Degree (in progress):** Financial University under the Government of the Russian Federation, Faculty of Economics and Business, "Corporate Finance and Business Valuation" (1st year, 2025–2027).
+  * **Bachelor's Degree (Honors / Red Diploma):** Financial University under the Government of the Russian Federation, Higher School of Management, "Management", Product Management module (graduated with honors, June 2025).
 * 🎯 **Core Expertise:** Requirements Engineering (BRD, User Stories, Acceptance Criteria), End-to-end Process Modeling in BPMN 2.0 (AS-IS / TO-BE), Billing System Migration (AV-Billing → Radius), and AI-driven BA Workflow Automation.
 * 📈 **Domains:** Fintech, Corporate & Investment Banking (CIB), Algorithmic Trading (Price Action / Smart Money), Data Pipelines, and Agentic AI.
 
