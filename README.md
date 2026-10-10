@@ -58,6 +58,10 @@
   Аналитическое исследование финансово-экономических моделей и финтех-экосистем лидеров e-commerce (Ozon Банк, Wildberries / WB Bank, Яндекс Банк) с факторным анализом и когортными матрицами.  
   *Стек:* `Python`, `Pandas`, `Jupyter Notebook`, `Matplotlib`, `Seaborn`
 
+* **[🧾 SplitBill Telegram Mini App & Smart Debt Clearing](https://github.com/Andrew123485/split-bill-bot)**  
+  Интеллектуальная FinTech-экосистема для разделения ресторанных чеков: компьютерное зрение для фискальных QR-кодов (OpenCV), нативный Telegram Mini App, умный учет алкоголя и графовая минимизация P2P-переводов через СБП.  
+  *Стек:* `Python`, `Starlette ASGI`, `OpenCV`, `Telegram WebApp`, `SQLite`, `СБП DeepLinks`
+
 ---
 
 ### 📈 2. Количественные финансы и Трейдинг
